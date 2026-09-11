@@ -64,3 +64,7 @@ works filtered to OpenAlex institution `I95457486`, ROR `01an7q238`, year 2024,
 and abstract availability. Describe these as works with at least one UC
 Berkeley-affiliated authorship. Affiliation metadata does not establish that
 every author is Berkeley faculty or that Berkeley led the work.
+
+### HW2 Markdown site starter
+
+`hw2_hidden_berkeley_site_starter.zip` contains a README, a Markdown page with all eight entries from `hw2_hidden_berkeley_locations.csv`, and supplied GitHub Pages configuration/HTML layout. Lab 3 and HW2 prepare a copy under `generated/`; students edit Markdown and practise Git/Pages. HTML/CSS authoring is optional. The archive is course-created scaffolding, not a separate data source.
